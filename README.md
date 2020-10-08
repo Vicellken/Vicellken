@@ -5,7 +5,7 @@
 #### - 🔭 I’m currently working on Virtual Rocky Shore -- an educational web app
 #### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HKU
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicellken&show_icons=true&count_private=true&hide=issues&theme=dracula) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&layout=compact)](https://github.com/Vicellken/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicellken&show_icons=true&count_private=true&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&layout=compact)](https://github.com/Vicellken/github-readme-stats)
 
 
 <!--
