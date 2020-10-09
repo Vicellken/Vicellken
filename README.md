@@ -3,7 +3,7 @@
 
 
 #### - 😄 Fun fact: an Arctic Code Vault Contributor
-#### - 🔭 I’m currently working on Virtual Rocky Shore -- an educational website
+#### - 🔭 I’m currently working on Virtual Rocky Shore Sampling Unit -- an educational website
 #### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HKU
 <br>
 
