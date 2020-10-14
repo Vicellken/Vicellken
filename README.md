@@ -7,7 +7,8 @@
 #### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HKU
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicellken&show_icons=true&count_private=true&hide=issues) 
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicellken&show_icons=true&count_private=true&hide=issues) -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&count_private=true&layout=compact)](https://github.com/Vicellken/github-readme-stats) -->
 
 
