@@ -4,8 +4,7 @@
 
 #### - 😄 Fun fact: an Arctic Code Vault Contributor
 #### - 🔭 I’m currently working on Virtual Rocky Shore Sampling Unit -- an educational website
-#### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HKU
-<br>
+#### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HK
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicellken&show_icons=true&count_private=true&hide=issues) -->
 
