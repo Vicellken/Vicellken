@@ -7,9 +7,9 @@
 #### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HK
 #### - 🎓 Currently a joint PhD student in the field of marine ecology
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicellken&show_icons=true&count_private=true&hide=issues) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&count_private=true&layout=compact)](https://github.com/Vicellken/github-readme-stats) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicellken&count_private=true&show_icons=true&hide=issues&layout=compact)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&layout=compact)](https://github.com/Vicellken/github-readme-stats)
 
 
 <!--
