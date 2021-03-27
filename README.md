@@ -1,16 +1,15 @@
 
-### Hi there 👋 this is Vincent
+### Hi there 👋 this is Yifei
 
 
-#### - 😄 Fun fact: an Arctic Code Vault Contributor
-#### - 🔭 I’m currently working on Virtual Rocky Shore Sampling Unit -- an educational website
-#### - 👯 I’m collaborating with [TIDE group](https://www.tidehku.com/) at SWIMS, HK
-#### - 🎓 Currently a joint PhD student in the field of marine ecology
+#### - 🐚 Marine ecologist & software developer
+#### - 🎓 Currently a joint PhD student between University of Hong Kong & Northeastern University
+#### - 🔭 I developed the Virtual Rocky Shore Sampling Unit -- an educational website
+#### - 👯 Check out my research team [TIDE group](https://www.tidehku.com/) in tropical intertidal ecology
+#### - 😄 Fun fact: Arctic Code Vault Contributor
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicellken&count_private=true&show_icons=true&hide=issues&layout=compact)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&layout=compact)](https://github.com/Vicellken/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&layout=compact&count_private=true)
 
 <!--
 **Vicellken/Vicellken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
