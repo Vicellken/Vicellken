@@ -2,7 +2,7 @@
 ### Hi there 👋 this is Yifei
 
 
-#### - 🐚 Marine ecologist & software developer
+#### - 🐚 Marine ecologist & software engineer (<i>ing.</i>)
 #### - 🎓 Joint PhD student between The University of Hong Kong & Northeastern University, US
 #### - 😄 Fun fact: Arctic Code Vault Contributor
 #### - 🔭 Developed the [Virtual Rocky Shore Sampling Unit (VRSSU)](https://vrssu.vercel.app/#/) -- an education website for rocky shore sampling design
