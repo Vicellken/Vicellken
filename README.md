@@ -3,7 +3,7 @@
 
 
 #### - 🐚 Marine ecologist & software engineer (<i>ing.</i>)
-#### - 🎓 Joint PhD student between The University of Hong Kong & Northeastern University, US
+#### - 🎓 Joint PhD candidate at University of Hong Kong & Northeastern University, US
 #### - 😄 Fun fact: Arctic Code Vault Contributor
 #### - 🔭 Developed the [Virtual Rocky Shore Sampling Unit (VRSSU)](https://vrssu.vercel.app/#/) -- an education website for rocky shore sampling design
 #### - 📋 Coauthored the Hong Kong Rocky shore Interactive Search Engine (HKRISE) with my lab mates at the [ECF team](https://www.tidehku.com/post/aug-2020-new-ecf-grant-started)
