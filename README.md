@@ -14,7 +14,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicellken&layout=compact&count_private=true) -->
 
-![](https://raw.githubusercontent.com/Vicellken/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Vicellken/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Vicellken/github-stats/blob/master/generated/languages.svg)
 
 
