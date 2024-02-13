@@ -2,12 +2,11 @@
 ### Hi there 👋 this is Yi-Fei
 
 
-#### - 🐚 Marine ecologist & software engineer (<i>ing.</i>)
-#### - 🎓 Joint PhD candidate at University of Hong Kong & Northeastern University, US
-#### - 😄 Fun fact: Arctic Code Vault Contributor
+#### - 🐚 Marine ecologist & software engineer
 #### - 🔭 Developed the [Virtual Rocky Shore Sampling Unit (VRSSU)](https://vrssu.vercel.app/#/) -- an education website for rocky shore sampling design
-#### - 📋 Coauthored the Hong Kong Rocky shore Interactive Search Engine (HKRISE) with my lab mates at the [ECF team](https://www.tidehku.com/post/aug-2020-new-ecf-grant-started)
-#### - 👯 More about my colleagues and our research at the [TIDE group](https://www.tidehku.com/) from the Swire Institute of Marine Science ([SWIMS](https://www.swims.hku.hk/))
+#### - 📋 Coauthored the Hong Kong Rocky shore Interactive Search Engine ([HKRISE](https://hkrise.vercel.app/#/)) with my lab mates
+#### - 👯 More about my colleagues and our research at the [TIDE group](https://www.tidehku.com/), the Swire Institute of Marine Science ([SWIMS](https://www.swims.hku.hk/))
+#### - 😄 Fun fact: Arctic Code Vault Contributor
 
 <br />
 
