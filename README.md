@@ -6,9 +6,9 @@
 <br>
 
 ### Published 📑
-1. A comparative study on CNN-based semantic segmentation of intertidal mussel beds. <i>Ecological Informatics</i>. [Full-text available on request]
-2. <i>HSC3D</i>: A Python package to quantify three-dimensional habitat structural complexity. <i>Methods in Ecology and Evolution</i>. [Full-text available](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14305)
-3. Ant-observer: A new approach for automatic acquisition and autonomous analyses of individual species abundance and interactions. <i>Ecological Informatics</i>. [Full-text available](https://www.sciencedirect.com/science/article/pii/S1574954124002942)
+1. A comparative study on CNN-based semantic segmentation of intertidal mussel beds. <i><b>Ecological Informatics</b></i>. [Full-text available on request]
+2. <i>HSC3D</i>: A Python package to quantify three-dimensional habitat structural complexity. <i><b>Methods in Ecology and Evolution</b></i>. [Full-text available](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14305)
+3. Ant-observer: A new approach for automatic acquisition and autonomous analyses of individual species abundance and interactions. <i><b>Ecological Informatics</b></i>. [Full-text available](https://www.sciencedirect.com/science/article/pii/S1574954124002942)
 
 
 <br>
