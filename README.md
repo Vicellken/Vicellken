@@ -5,19 +5,34 @@
 
 <br>
 
-### Published 📑
+
+### Updates ✨
+1. Alpha release of [HOLSEA Datahub](https://holsea-datahub-alpha.vercel.app/), an interactive web platform for sea level sciences, powered by [HOLSEA](https://www.holsea.org/).
+
+
+HOLSEA is an INQUA-sponsored project with the goal of determining the rates, mechanisms and geographic variability of sea level over the past ~20,000 years. -- I will be presenting this platform at [PALSEA](https://palseagroup.weebly.com/) meeting Venice, Italy. SEE YOU SOON!
+   
+2. The launch of [HKRISE Lantau hotspot project](https://hkrise-lantau.vercel.app/#/) -- funded by the Marine Conservation Enhancement Fund of the Hong Kong Offshore LNG Terminal Project
+
+
+<br>
+
+
+### Published 📋
 1. A comparative study on CNN-based semantic segmentation of intertidal mussel beds. <i><b>Ecological Informatics</b></i>. [Full-text available on request]
 2. <i>HSC3D</i>: A Python package to quantify three-dimensional habitat structural complexity. <i><b>Methods in Ecology and Evolution</b></i>. [Full-text available](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14305)
 3. Ant-observer: A new approach for automatic acquisition and autonomous analyses of individual species abundance and interactions. <i><b>Ecological Informatics</b></i>. [Full-text available](https://www.sciencedirect.com/science/article/pii/S1574954124002942)
 
+<br>
+
+### Pre-prints 📑
+1. Automated Detection of Sea Cucumbers in Turbid Subtidal Marine Habitats: An Explainable Approach. [Full-text available](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110525)
+2. An Algorithm Designed for Rapid Automated Cardiac Data Processing: Integrating Autocorrelation, a Genetic Algorithm and a Tracking Index. <b>R Package will be released SOON!</b> [Full-text available](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153081)
+
 
 <br>
 
-### Updates ✨
-The launch of [HKRISE Lantau hotspot project](https://hkrise-lantau.vercel.app/#/) -- funded by the Marine Conservation Enhancement Fund of the Hong Kong Offshore LNG Terminal Project
 
-
-<br>
 
 ### Previous projects: 
 #### - 🔭 Developed the [Virtual Rocky Shore Sampling Unit (VRSSU)](https://vrssu.vercel.app/#/) -- an education website for rocky shore sampling design
