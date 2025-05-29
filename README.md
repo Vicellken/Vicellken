@@ -7,10 +7,12 @@
 
 
 ### Updates ✨
-1. Alpha release of [HOLSEA Datahub](https://holsea-datahub-alpha.vercel.app/), an interactive web platform for sea level sciences, powered by [HOLSEA](https://www.holsea.org/).
+1. Alpha release of <b>[HOLSEA Datahub](https://holsea-datahub-alpha.vercel.app/)</b>, an interactive web platform for sea level sciences, powered by <b>[HOLSEA](https://www.holsea.org/)</b>.
 
 
-HOLSEA is an INQUA-sponsored project with the goal of determining the rates, mechanisms and geographic variability of sea level over the past ~20,000 years. -- I will be presenting this platform at [PALSEA](https://palseagroup.weebly.com/) meeting Venice, Italy. SEE YOU SOON!
+<b>HOLSEA</b> is an INQUA-sponsored project with the goal of determining the rates, mechanisms and geographic variability of sea level over the past ~20,000 years. -- <b>I will be presenting this platform at [PALSEA](https://palseagroup.weebly.com/) meeting Venice, Italy. SEE YOU SOON!</b> 
+
+More info about <b>PAGES</b> (Past Global Changes) available [here](https://pastglobalchanges.org/calendar/138334).
    
 2. The launch of [HKRISE Lantau hotspot project](https://hkrise-lantau.vercel.app/#/) -- funded by the Marine Conservation Enhancement Fund of the Hong Kong Offshore LNG Terminal Project
 
