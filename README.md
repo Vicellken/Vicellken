@@ -24,7 +24,7 @@ More info about <b>PAGES</b> (Past Global Changes) available [here](https://past
 1. A comparative study on CNN-based semantic segmentation of intertidal mussel beds. <i><b>Ecological Informatics</b></i>. [Full-text available on request]
 2. <i>HSC3D</i>: A Python package to quantify three-dimensional habitat structural complexity. <i><b>Methods in Ecology and Evolution</b></i>. [Full-text available](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14305)
 3. Ant-observer: A new approach for automatic acquisition and autonomous analyses of individual species abundance and interactions. <i><b>Ecological Informatics</b></i>. [Full-text available](https://www.sciencedirect.com/science/article/pii/S1574954124002942)
-4. Automated detection of sea cucumbers in turbid subtidal marine habitats: An explainable approach. <i><b>Ecological Informatics</b></i>.
+4. Automated detection of sea cucumbers in turbid subtidal marine habitats: An explainable approach. <i><b>Ecological Informatics</b></i>. [Full-text available](https://doi.org/10.1016/j.ecoinf.2025.103342)
 
 
 <br>
