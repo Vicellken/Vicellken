@@ -8,13 +8,7 @@
 
 
 
-<br>
 
-
-### Updates ✨
-1. Alpha release of [HOLSEA Datahub](https://holsea-datahub-alpha.vercel.app/), an interactive web platform for sea level sciences, powered by [HOLSEA](https://www.holsea.org/).
-   
-2. The launch of [HKRISE Lantau hotspot project](https://hkrise-lantau.vercel.app/#/) -- funded by the Marine Conservation Enhancement Fund of the Hong Kong Offshore LNG Terminal Project
 
 
 
